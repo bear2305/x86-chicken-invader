@@ -144,7 +144,7 @@ Each function compares `bx_time` against a threshold constant. Change the
 
 | Element       | ASCII Art                       | Description                                    |
 |---------------|---------------------------------|------------------------------------------------|
-| Player ship   | `**||*_/\_*|___/\___||__||__|$` | Your ship; moves freely on screen |
+| Player ship   | `**\|\|*_/\_*\|___/\___\|\|__\|\|__\|` | Your ship; moves freely on screen |
 | Chicken       | `/-(o_o)-\V`                    | 5 enemies, march and descend over time         |
 | Bullet        | `....`                          | Fired upward from the ship tip                 |
 | Egg           | `0`                             | Dropped downward by chickens                   |
