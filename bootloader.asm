@@ -37,7 +37,7 @@ chs_fallback:
              mov dh, 0               ; Head 0
              mov cl, 2               ; Sector 2
              mov dl, [boot_drive]    ; Use the ID the BIOS gave us
-             mov bx, 0x7e00          ; Destination ES:BX (0x0000:0x7e00)
+             mov bx, 0x9000          ; Destination ES:BX (0x0000:0x9000)
              int 0x13
              jc disk_error           ; Carry flag is set if it fails
 
