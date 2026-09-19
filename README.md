@@ -6,8 +6,8 @@ Written entirely in 16-bit x86 NASM assembly.
 ---
 
 
-
 <img width="400" height="225" alt="snake3" src="https://github.com/user-attachments/assets/225e3be8-4fda-4d11-a934-4fdf996d0dc8" />
+
 
 
 ## Overview
