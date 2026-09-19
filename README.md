@@ -5,6 +5,9 @@ Written entirely in 16-bit x86 NASM assembly.
 
 ---
 
+<img width="250" height="141" alt="space5" src="https://github.com/user-attachments/assets/970bbcf6-43fc-430f-9771-77215d791323" />
+
+
 ## Overview
 
 Chicken Invader is a Space Invaders-style game running in BIOS real mode (16-bit).
