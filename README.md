@@ -1,4 +1,4 @@
-# Chicken Invader 🐔🚀
+# Chicken Invader 🐔🚀.
 
 A bare-metal x86 space-shooter game that runs directly on real hardware with no operating system.
 Written entirely in 16-bit x86 NASM assembly.
