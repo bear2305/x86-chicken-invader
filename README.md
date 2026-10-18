@@ -229,5 +229,5 @@ This project is licensed under the MIT License. You are free to use, copy, modif
 
 See the [LICENSE](LICENSE) file for the full license text.
 
-**Original author:** Emmanuel Adamnor Banahene  
+**Original author:** Banahene Emmanuel Adamnor
 **GitHub:** [@bear2305](https://github.com/bear2305)
